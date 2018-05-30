@@ -1,4 +1,3 @@
-import re
 import tweepy
 from time import sleep
 
