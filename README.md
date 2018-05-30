@@ -2,7 +2,7 @@
 A Python-built with Tweepy bot to retweet/favorite specified keywords or keywords from trend in specified area. Handle multiple hashtags and keywords as well.
 
 # Requirements
-[Python3](https://www.python.org/) - Python version 3.6
+[Python3](https://www.python.org/) - Python version 3.6  
 [Tweepy](http://www.tweepy.org/) - Python library to access Twitter API
 
 # Instruction
