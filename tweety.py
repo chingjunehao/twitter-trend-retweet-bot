@@ -1,8 +1,6 @@
 import re
 import tweepy
 from time import sleep
-import tkinter # For python 3.6
-from tkinter import *
 
 consumer_key = 'key from your acc'
 consumer_secret = 'key from your acc'
